@@ -23,12 +23,23 @@ namespace ForTech.Tests
         public void Give_40_and_40_return_deuce()
         {
             var result = GetPlayerStatus(40, 40);
+            Assert.AreEqual("duece", result);
+        }
+
+        [TestMethod()]
+        public void Give_41_and_40_return_deuce()
+        {
+            var result = GetPlayerStatus(41, 40);
             Assert.AreEqual("advantage", result);
         }
 
         private string GetPlayerStatus(int playerOneScore, int playerTwoScore)
         {
             if (playerOneScore ==40 && playerTwoScore == 40)
+            {
+                return ResultEnum.duece.ToString();
+            }
+            if (playerOneScore > 40 || playerTwoScore > 40)
             {
                 return ResultEnum.advantage.ToString();
             }
