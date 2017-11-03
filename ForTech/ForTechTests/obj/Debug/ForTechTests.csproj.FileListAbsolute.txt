@@ -1,0 +1,7 @@
+D:\coredev\Homework\ForTechTest\ForTech\ForTechTests\bin\Debug\ForTechTests.dll
+D:\coredev\Homework\ForTechTest\ForTech\ForTechTests\bin\Debug\ForTechTests.pdb
+D:\coredev\Homework\ForTechTest\ForTech\ForTechTests\bin\Debug\ForTech.dll
+D:\coredev\Homework\ForTechTest\ForTech\ForTechTests\bin\Debug\ForTech.pdb
+D:\coredev\Homework\ForTechTest\ForTech\ForTechTests\obj\Debug\ForTechTests.csprojResolveAssemblyReference.cache
+D:\coredev\Homework\ForTechTest\ForTech\ForTechTests\obj\Debug\ForTechTests.dll
+D:\coredev\Homework\ForTechTest\ForTech\ForTechTests\obj\Debug\ForTechTests.pdb
